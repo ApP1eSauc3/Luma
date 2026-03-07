@@ -1,4 +1,4 @@
-# SmartBanking
+# Luma
 
 A personal finance app for Australians and Canadians managing money across both countries. Track account balances, monitor live CAD/AUD exchange rates, set rate alerts, and securely store bank details — all in one place.
 
@@ -58,8 +58,8 @@ Log past transfers with amount, rate, provider, and automatically calculated rec
 
 **Install**
 ```bash
-git clone https://github.com/yourusername/smartbanking.git
-cd smartbanking
+git clone https://github.com/ApP1eSauc3/Luma.git
+cd Luma
 npm install
 cd ios && pod install && cd ..
 ```
@@ -99,7 +99,7 @@ src/
 
 ## Building for Release
 
-1. Open `ios/SmartBanking.xcworkspace` in Xcode
+1. Open `ios/Luma.xcworkspace` in Xcode
 2. Select a real device or `Any iOS Device` as the target
 3. Set scheme to **Release**
 4. Product → Archive

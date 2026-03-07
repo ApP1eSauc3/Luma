@@ -7,7 +7,7 @@ require Pod::Executable.execute_command('node', ['-p',
 platform :ios, '16.0'
 prepare_react_native_project!
 
-target 'SmartBanking' do
+target 'Luma' do
   config = use_native_modules!
 
   use_react_native!(

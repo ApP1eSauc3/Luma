@@ -1,4 +1,4 @@
-package com.smartbanking
+package com.Luma
 
 import android.app.Application
 import com.facebook.react.PackageList
